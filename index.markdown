@@ -10,9 +10,17 @@ navigation_weight: 1
   I'm a PhD candidate at the department of Sociology at the University of Amsterdam, and the 
   Interuniversity Center for Social Science Theory and Methodology (ICS) in the Netherlands.
 
+  My work centers around discrimination and prejudice against different minority groups, and 
+  what effect this have on societal inequalities, as well as life-course outcomes such as 
+  education, income, and health. In my research I make use of various quantitative methods 
+  such as regression analysis, and computational methods including machine-learning and large-scale
+  text analysis.
+
   My PhD project is placed in the Horizon Europe funded project EQUALSTRENGTH which investigates
   cumulative and structural forms of discrimination, outgroup prejudice and hate crimes against
-  ethnic, racial and religious minorities. More information about EQUALSTRENGTH can be found 
+  ethnic, racial and religious minorities. EQUALSTRENGTH is a consortium of ten instiutions in nine
+  European countries: Belgium, Czechia, Germany, Hungary, Ireland, The Netherlands, Spain, Switzerland, 
+  and the United Kingdom. More information about EQUALSTRENGTH can be found 
   [here](https://equalstrength.eu/about.html).
   
   I am also working on improving robustness of educational mobility research, my master's thesis
