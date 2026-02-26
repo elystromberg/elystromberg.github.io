@@ -7,7 +7,7 @@ navigation_weight: 2
 
 # Seminar Leader
 
-**Advanced Statistics - University of Amsterdam, Autumn 2024**
+**Advanced Statistics - University of Amsterdam, 2024 - 2026**
 
 The second course in statistics in the bachelors in Sociology. Taught multivariate linear and logistic regression. Supervised independent student projects using secondary data.
 
@@ -23,3 +23,8 @@ Lead lab sessions in Stata, covering the basics of data analysis and regression 
 **Basic Methods - Stockholm University, Autumn 2021**
 
 Supervised independent research projects where students developed surveys.
+
+# Guest Lecturer
+
+** Sexual Development, Parenting, and Education. - University of Amsterdam, 2025
+Gave a presentation for students in the minor Gender and Sexualities on quantitative intersectionality and stereotypes.

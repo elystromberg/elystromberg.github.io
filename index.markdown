@@ -10,11 +10,10 @@ navigation_weight: 1
   I'm a PhD candidate at the department of Sociology at the University of Amsterdam, and the 
   Interuniversity Center for Social Science Theory and Methodology (ICS) in the Netherlands.
 
-  My work centers around discrimination and prejudice against different minority groups, and 
-  what effect this have on societal inequalities, as well as life-course outcomes such as 
-  education, income, and health. In my research I make use of various quantitative methods 
-  such as regression analysis, and computational methods including machine-learning and large-scale
-  text analysis.
+  My work centers around stereotypes and prejudice against different minority groups, and 
+  to what extent quantitative methods can be used to capture intersectional mechanisms. Using factorial experiements
+in an extensive harmonised survey in 10 countries I specifically look at how gender, sexuality, religion, and ethnicity shape stereotypes in ways that would be missed with additive models. A working paper titled "Are stereotypes of warmth and competence 
+intersectionally complex? Investigating intersections of gender, sexuality, ethnicity, and religion." can be found [here](https://osf.io/preprints/socarxiv/49e5k_v1/).
 
   My PhD project is placed in the Horizon Europe funded project EQUALSTRENGTH which investigates
   cumulative and structural forms of discrimination, outgroup prejudice and hate crimes against
@@ -23,14 +22,12 @@ navigation_weight: 1
   and the United Kingdom. More information about EQUALSTRENGTH can be found 
   [here](https://equalstrength.eu/about.html).
   
-  I am also working on improving robustness of educational mobility research, my master's thesis
-  can be found [here](https://su.diva-portal.org/smash/record.jsf?pid=diva2:1709900). A working 
-  paper titled "How Robust are Country Rankings in Educational Mobility?" that I am writing together
-  with Per Engzell (UCL) is available at Socarxiv [here](https://osf.io/preprints/socarxiv/9zkc2).
+  Previously I have worked on educational mobility and how analyses are affeced by researchers' analytical choices. The article "How Robust are Country Rankings in Educational Mobility?" written
+  with Per Engzell (UCL) was recently published in Sociological Science and can be found [here](https://sociologicalscience.com/articles-v12-36-891/).
 
-  Previously I have worked as a research assistant in a project on the role of recrutiment for
+  Before starting my PhD I worked as a research assistant in a project on the role of recrutiment for
   gender differences in Swedish universities, led by Anna Sandberg and Eva Ranehill. You can read
   more about that project [here](https://www.gu.se/en/news/the-role-of-recruitment-for-gender-differences-within-the-academy).
 
-  You can get in touch via [Mastodon](https://mastodon.social/@elystromberg) or email e.o.stromberg[at]uva.nl
+  You can get in touch via [bluesky](https://bsky.app/profile/elystromberg.bsky.social) or email e.o.stromberg[at]uva.nl
   
