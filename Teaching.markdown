@@ -26,5 +26,6 @@ Supervised independent research projects where students developed surveys.
 
 # Guest Lecturer
 
-** Sexual Development, Parenting, and Education. - University of Amsterdam, 2025
+** Sexual Development, Parenting, and Education. - University of Amsterdam, 2025 **
+
 Gave a presentation for students in the minor Gender and Sexualities on quantitative intersectionality and stereotypes.
