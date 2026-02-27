@@ -19,6 +19,12 @@ The first course in the sociology programs works as an introduction to sociology
 
 Lead lab sessions in Stata, covering the basics of data analysis and regression analysis.
 
+**Basic Methods - Stockholm University, Autumn 2021**
+
+Supervised independent research projects where students developed surveys.
+
+
+
 
 **Basic Methods - Stockholm University, Autumn 2021**
 
