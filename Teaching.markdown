@@ -7,9 +7,9 @@ navigation_weight: 2
 
 # Seminar Leader
 
-**Advanced Statistics - University of Amsterdam, Spring 2024**
+**Advanced Statistics - University of Amsterdam, 2024 - 2026**
 
-Lead tutorials on regression analysis in SPSS and guided students to the writing of a quantitative research paper.
+The second course in statistics in the bachelors in Sociology. Taught multivariate linear and logistic regression. Supervised independent student projects using secondary data.
 
 **Macro Sociology - Stockholm University, Spring 2022**
 
@@ -26,4 +26,12 @@ Supervised independent research projects where students developed surveys.
 
 
 
+**Basic Methods - Stockholm University, Autumn 2021**
 
+Supervised independent research projects where students developed surveys.
+
+# Guest Lecturer
+
+** Sexual Development, Parenting, and Education. - University of Amsterdam, 2025 **
+
+Gave a presentation for students in the minor Gender and Sexualities on quantitative intersectionality and stereotypes.
