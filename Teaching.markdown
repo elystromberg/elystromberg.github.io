@@ -1,37 +1,39 @@
 ---
 layout: page
 title: Teaching
-permalink: /teaching/
-navigation_weight: 2
 ---
 
 # Seminar Leader
 
-**Advanced Statistics - University of Amsterdam, 2024 - 2026**
+### University of Amsterdam 
+**Advanced Statistics (2024–Now)**
 
-The second course in statistics in the bachelors in Sociology. Taught multivariate linear and logistic regression. Supervised independent student projects using secondary data.
+The second statistics course in the Bachelor's programme in Sociology. I taught 
+multivariate linear and logistic regression and supervised independent student projects using secondary data.
 
-**Macro Sociology - Stockholm University, Spring 2022**
+### Stockholm University
+**Macro Sociology (Spring 2022)**
 
-The first course in the sociology programs works as an introduction to sociology and sociological theory. I lead seminars where students had to reflect over sociological concepts and theories, and apply these to their lived expericences.
+An introductory course in sociology and sociological theory. I led seminars in which students reflected on sociological concepts and applied them to their lived experiences.
 
-**Sociological Methods, Quantitative Methods - Stockholm University, Autumn 2021 & Spring 2022**
+**Sociological Methods: Quantitative Methods (Autumn 2021 & Spring 2022)**
 
-Lead lab sessions in Stata, covering the basics of data analysis and regression analysis.
-
-**Basic Methods - Stockholm University, Autumn 2021**
-
-Supervised independent research projects where students developed surveys.
-
+Led Stata lab sessions covering data management, regression analysis, and statistical inference.
 
 
+**Basic Methods (Autumn 2021)**
 
-**Basic Methods - Stockholm University, Autumn 2021**
+Supervised independent student research projects involving survey design and data collection.
 
-Supervised independent research projects where students developed surveys.
+
 
 # Guest Lecturer
 
-** Sexual Development, Parenting, and Education. - University of Amsterdam, 2025 **
+### University of Amsterdam 
+**Sexual Development, Parenting, and Education (2025)**
 
-Gave a presentation for students in the minor Gender and Sexualities on quantitative intersectionality and stereotypes.
+Guest lecture for the Minor in Gender and Sexualities on quantitative approaches to intersectionality and stereotype research.
+
+**Epistemologies and Ethics in the Social Science (2025)**  
+
+Guest lecture on open science and preregistration.
