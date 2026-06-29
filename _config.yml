@@ -22,7 +22,7 @@ title: Ely Strömberg
 email: e.o.stromberg[AT]uva.nl
 description: >
   
-baseurl: "/About" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://elystromberg.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: elystromberg
 github_username:  elystromberg
