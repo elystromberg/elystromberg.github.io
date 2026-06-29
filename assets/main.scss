@@ -1,0 +1,87 @@
+---
+---
+
+@import "minima";
+
+/* =========================
+   Custom layout styles
+   ========================= */
+
+.site-nav-custom {
+  border-bottom: 1px solid #e5e5e5;
+  padding: 1rem 0;
+  margin-bottom: 2rem;
+}
+
+.nav-container {
+  max-width: 900px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.nav-links a {
+  margin-left: 1rem;
+  text-decoration: none;
+}
+
+.front-container {
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.pub-card {
+  display: flex;
+  gap: 1.5rem;
+  margin: 1.5rem 0;
+  align-items: flex-start;
+}
+
+.pub-card img {
+  width: 160px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+/* shared page layout system */
+.page-wrapper {
+  display: flex;
+  justify-content: center;
+}
+
+.page-container {
+  max-width: 860px;
+  width: 100%;
+  padding: 2rem 1.2rem;
+  line-height: 1.65;
+  font-size: 16.5px;
+  color: #222;
+}
+
+/* page title hierarchy */
+.page-header h1 {
+  font-size: 1.8rem;
+  margin-bottom: 1.2rem;
+  line-height: 1.2;
+}
+
+/* content rhythm */
+.page-content p {
+  margin-bottom: 1rem;
+}
+
+.page-content h2,
+.page-content h3 {
+  margin-top: 2rem;
+  margin-bottom: 0.75rem;
+}
+
+/* optional: make research sections more readable */
+.page-content ul {
+  margin: 0.5rem 0 1.2rem 1.2rem;
+}
+
+.page-content li {
+  margin-bottom: 0.4rem;
+}
